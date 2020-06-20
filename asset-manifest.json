@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/bettersplit/static/css/main.f14b0f4d.chunk.css",
+    "main.js": "/bettersplit/static/js/main.17dcf879.chunk.js",
+    "main.js.map": "/bettersplit/static/js/main.17dcf879.chunk.js.map",
+    "runtime-main.js": "/bettersplit/static/js/runtime-main.2dcffe5e.js",
+    "runtime-main.js.map": "/bettersplit/static/js/runtime-main.2dcffe5e.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/bettersplit/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.0c5dfc58.chunk.js": "/bettersplit/static/js/2.0c5dfc58.chunk.js",
+    "static/js/2.0c5dfc58.chunk.js.map": "/bettersplit/static/js/2.0c5dfc58.chunk.js.map",
+    "index.html": "/bettersplit/index.html",
+    "precache-manifest.775de7bc5d2382e1a6b9307465c6fdf5.js": "/bettersplit/precache-manifest.775de7bc5d2382e1a6b9307465c6fdf5.js",
+    "service-worker.js": "/bettersplit/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/bettersplit/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.f14b0f4d.chunk.css.map": "/bettersplit/static/css/main.f14b0f4d.chunk.css.map",
+    "static/js/2.0c5dfc58.chunk.js.LICENSE.txt": "/bettersplit/static/js/2.0c5dfc58.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2dcffe5e.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.0c5dfc58.chunk.js",
+    "static/css/main.f14b0f4d.chunk.css",
+    "static/js/main.17dcf879.chunk.js"
+  ]
+}
