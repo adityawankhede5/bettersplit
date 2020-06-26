@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cf3887f6ccf51dce44100b11684539ea",
+    "revision": "9ac4d024a3e33f715fb2e6e98a92cd59",
     "url": "/bettersplit/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bettersplit/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "e9890029b8d713977bdd",
+    "revision": "f83e09c7b7d64434abad",
     "url": "/bettersplit/static/css/main.f17e5e4f.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bettersplit/static/js/2.cf3318dd.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e9890029b8d713977bdd",
-    "url": "/bettersplit/static/js/main.f0071a4f.chunk.js"
+    "revision": "f83e09c7b7d64434abad",
+    "url": "/bettersplit/static/js/main.f93ba1fb.chunk.js"
   },
   {
     "revision": "3c2b7d8a62aad5a9accd",
