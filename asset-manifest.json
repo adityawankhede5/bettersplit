@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/bettersplit/static/css/main.f17e5e4f.chunk.css",
-    "main.js": "/bettersplit/static/js/main.f93ba1fb.chunk.js",
-    "main.js.map": "/bettersplit/static/js/main.f93ba1fb.chunk.js.map",
+    "main.js": "/bettersplit/static/js/main.687810d5.chunk.js",
+    "main.js.map": "/bettersplit/static/js/main.687810d5.chunk.js.map",
     "runtime-main.js": "/bettersplit/static/js/runtime-main.2dcffe5e.js",
     "runtime-main.js.map": "/bettersplit/static/js/runtime-main.2dcffe5e.js.map",
     "static/css/2.af3c1da9.chunk.css": "/bettersplit/static/css/2.af3c1da9.chunk.css",
     "static/js/2.cf3318dd.chunk.js": "/bettersplit/static/js/2.cf3318dd.chunk.js",
     "static/js/2.cf3318dd.chunk.js.map": "/bettersplit/static/js/2.cf3318dd.chunk.js.map",
     "index.html": "/bettersplit/index.html",
-    "precache-manifest.ead0bd1710f321c5bfb2700807066843.js": "/bettersplit/precache-manifest.ead0bd1710f321c5bfb2700807066843.js",
+    "precache-manifest.1b5f7c1b30c5bbafcdb503465f9682d6.js": "/bettersplit/precache-manifest.1b5f7c1b30c5bbafcdb503465f9682d6.js",
     "service-worker.js": "/bettersplit/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/bettersplit/static/css/2.af3c1da9.chunk.css.map",
     "static/css/main.f17e5e4f.chunk.css.map": "/bettersplit/static/css/main.f17e5e4f.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.cf3318dd.chunk.js",
     "static/css/main.f17e5e4f.chunk.css",
-    "static/js/main.f93ba1fb.chunk.js"
+    "static/js/main.687810d5.chunk.js"
   ]
 }
