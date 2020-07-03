@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/bettersplit/precache-manifest.9097b99ded47b0455eca949fcad8dd21.js"
+  "/bettersplit/precache-manifest.a610578a5bb1156428ffd7ae4be55107.js"
 );
 
 self.addEventListener('message', (event) => {
